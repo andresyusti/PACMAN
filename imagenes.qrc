@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/iconfinder_Pacman_381603.png</file>
+        <file>imagenes/PACMAN.png</file>
+        <file>imagenes/mapa.png</file>
+        <file>imagenes/PACMAN 2.0.png</file>
+        <file>imagenes/mapa pacman prueba.png</file>
+    </qresource>
+</RCC>
